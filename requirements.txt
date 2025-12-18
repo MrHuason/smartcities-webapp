@@ -5,3 +5,4 @@ nltk==3.8.1
 deep-translator==1.11.4
 gunicorn==20.1.0
 openpyxl==3.1.2
+numpy==1.24.3
